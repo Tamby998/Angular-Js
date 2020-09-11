@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Tuto-Angular"
+    }
+  },
+  "defaultProject": "Tuto-Angular",
+  "cli": {
+    "analytics": "2b9d7f47-1e69-45b3-87b7-da4dcb95068f"
+  }
 }
